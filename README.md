@@ -5,7 +5,7 @@ The book, based on the author's teaching experience, aims to introduce the funda
 
 
 ## Index
-1. Introduction
+1. [Introduction](#Notebooks/1_Introduction.ipynb)
 2. Python environment
 3. Python basics
 4. Python coding
