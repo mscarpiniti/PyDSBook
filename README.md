@@ -16,7 +16,7 @@ The book, based on the author's teaching experience, aims to introduce the funda
 
 
 ## About
-The book introduces the fundamental concepts of Python with applications in data science. It offers a compact, self-contained, and accessible collection of methodologies and practical examples designed to support learning. The text is intended for undergraduate and graduate students who may not have a prior background in programming. 
+The book introduces the fundamental concepts of Python with applications in data science. It offers a compact, self-contained, and accessible collection of methodologies and practical examples designed to support learning. The text is intended for undergraduate and graduate students who may not have a prior programming experience. 
 
 
 ## Python requirements
