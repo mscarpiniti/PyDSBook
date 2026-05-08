@@ -16,8 +16,12 @@ The book, based on the author's teaching experience, aims to introduce the funda
 
 
 ## About
+The book introduces the fundamental concepts of Python with applications in data science. It offers a compact, self-contained, and accessible collection of methodologies and practical examples designed to support learning. The text is intended for undergraduate and graduate students who may not have a prior background in programming. 
 
+
+## Python requirements
+The book was written and tested with Python 3.12, though other Python 3.x versions should work in nearly all cases.
 
 
 ## License
-
+The code in this repository, including all code samples in the notebooks listed above, is released under the [Apache License, Version 2.0](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/license/apache-2.0).
