@@ -19,6 +19,10 @@ The book, based on the author's teaching experience, aims to introduce the funda
 The book introduces the fundamental concepts of Python with applications in data science. It offers a compact, self-contained, and accessible collection of methodologies and practical examples designed to support learning. The text is intended for undergraduate and graduate students who may not have a prior programming experience. 
 
 
+## Python requirements
+The book was written and tested with Python 3.12, though other Python 3.x versions should work in nearly all cases.
+
+
 If you have Git installed, you can clone the book repository, otherwise simply download it and move to the correct folder:
 ```
 git clone https://github.com/mscarpiniti/PyDSBook.git
@@ -26,7 +30,7 @@ cd PyDSBook
 ```
 
 
-To use the code, it is suggested to create a new Python environment (i.e., `PyDS`) with Spyder and `pip`:
+To use the code, it is suggested to create a new Python 3.12 environment (i.e., `PyDS`) with Spyder and `pip`:
 ```
 conda create -n PyDS python=3.12 Spyder pip
 ```
@@ -36,10 +40,6 @@ Then activate the environment and install all requirements:
 conda activate PyDS
 pip install -r requirements.txt
 ```
-
-
-## Python requirements
-The book was written and tested with Python 3.12, though other Python 3.x versions should work in nearly all cases.
 
 
 ## License
