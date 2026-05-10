@@ -41,6 +41,11 @@ conda activate PyDS
 pip install -r requirements.txt
 ```
 
+#### Want to play with these notebooks online without having to install anything?
+
+Open this repository in [Colaboratory](https://colab.research.google.com/github/mscarpiniti/PyDSBook/blob/master/):
+<a href="https://colab.research.google.com/github/mscarpiniti/PyDSBook/blob/master/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
+
 
 ## License
 The code in this repository, including all code samples in the notebooks listed above, is released under the [Apache License, Version 2.0](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/license/apache-2.0).
