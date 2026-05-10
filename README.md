@@ -18,6 +18,13 @@ The book, based on the author's teaching experience, aims to introduce the funda
 ## About
 The book introduces the fundamental concepts of Python with applications in data science. It offers a compact, self-contained, and accessible collection of methodologies and practical examples designed to support learning. The text is intended for undergraduate and graduate students who may not have a prior programming experience. 
 
+To use the code, it is suggested to create a new Python environment, i.e., `PyDS`, with `pip`:
+    conda create -n PyDS python=3.12 Spyder pip
+
+Then activate the environment and install all requirements:
+    conda activate PyDS
+    pip install -r requirements.txt
+
 
 ## Python requirements
 The book was written and tested with Python 3.12, though other Python 3.x versions should work in nearly all cases.
