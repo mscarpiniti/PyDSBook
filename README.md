@@ -44,7 +44,7 @@ pip install -r requirements.txt
 #### Want to play with these notebooks online without having to install anything?
 
 Open this repository in [Colaboratory](https://colab.research.google.com/github/mscarpiniti/PyDSBook/blob/master/):
-<a href="https://colab.research.google.com/github/mscarpiniti/PyDSBook/blob/master/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
+<a href="https://colab.research.google.com/github/mscarpiniti/PyDSBook/blob/master/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## License
