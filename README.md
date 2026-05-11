@@ -3,6 +3,8 @@
 This repository contains all the sorce code of **Python for Data Science** book, in the form of Jupyter notebooks.
 The book, based on the author's teaching experience, aims to introduce the fundamental concepts of Python with applications in data science.
 
+![Python for Data Science](PyDS.jpg)
+
 
 ## Index
 1. [Introduction](Notebooks/1_Introduction.ipynb)
